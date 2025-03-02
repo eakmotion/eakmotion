@@ -111,7 +111,7 @@ I love to keep learning—whether that’s diving into AI/ML integrations, explo
 - **Continuous Explorer:** Whether it’s new tech or new trails, I’m always up for an adventure
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif" width="150"/>
 </p>
 
 **Thanks for stopping by!** Feel free to reach out if you’d like to collaborate, talk tech, or just say hello. 😄
